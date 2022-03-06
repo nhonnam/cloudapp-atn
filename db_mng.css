@@ -1,0 +1,42 @@
+th{
+    top: 40px;
+    position: sticky;
+    background-color: #F6FF33;
+    height: 30px;
+    font-family: sans-serif;
+    font-size: 20;
+}
+.table-heading{
+    top: 27px;
+    position: sticky;
+    height: 30px;
+}
+.sticky{
+    top: 75px;
+    position: sticky;
+    background-color: gold;
+}
+ .nav-bar{
+    top: 8px;
+    position: sticky;
+    background-color: gold;
+    height: 30px;
+    font-size: large;
+    margin: 0;
+}
+tr{
+    height: 30px;
+}
+input{
+    height: 25px;
+}
+html{
+    background-image: url(image/toy.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#signout{
+    font-family: sans-serif;
+    text-decoration-color: black;
+    text-decoration: none;
+}
