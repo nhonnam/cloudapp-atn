@@ -8,7 +8,7 @@
                         <option value=30>30 seconds</option>
                     </select>
                     <input type="submit" name="submit_time" value="Set time">
-                <label><?php echo "Current refresh time setting is ".$_SESSION["refresh"];?></label>
+                <label><?php echo "Current refresh time setting is ".$_SESSION["refresh"]." seconds.";?></label>
                 </form>
             </head>
 

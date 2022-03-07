@@ -23,7 +23,7 @@ if ($_SERVER["REQUEST_METHOD"]=="POST"){
 <html lang="en" dir="ltr">
 	<head>
 		<meta charset="utf-8">
-		<title>YumYum Login Form</title>
+		<title>ATN Login Form</title>
 		<link rel="stylesheet" href="login.css">
 		<script type="text/javascript" src="login.js"></script>
 		<meta name="viewport" content="width=device-width, initial-scale=0.65">

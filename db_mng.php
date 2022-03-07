@@ -4,6 +4,7 @@
     <link rel="stylesheet" href="db_mng.css">
 </head>
 <body>
+    <header>ATN Toy Stores Database</header>
 <?php
     session_start();
     $page = $_SERVER['PHP_SELF'];

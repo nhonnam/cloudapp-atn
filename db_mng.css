@@ -40,3 +40,53 @@ html{
     text-decoration-color: black;
     text-decoration: none;
 }
+input[type="submit"]{
+    background-color: #ffffff;
+    display: inline-block;
+    padding: 0em 1.7em;
+    border: 0.1em solid #c56104;
+    border-radius: 0.12em;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    color: #c56104;
+    text-align: center;
+    transition: all 0.2s;
+    margin: 0;
+}
+input[type="submit"]:hover{
+    color: #ededed;
+    background-color: #c56104;
+    cursor: pointer;
+}
+.nav{
+    background-color: #ffffff;
+    display: inline-block;
+    padding: 0em 1.7em;
+    border: 0.1em solid #c56104;
+    border-radius: 0.12em;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    color: #c56104;
+    text-align: center;
+    transition: all 0.2s;
+    margin: 0;
+}
+.nav:hover{
+    color: #ededed;
+    background-color: #c56104;
+    cursor: pointer;
+}
+header{
+    padding: 20px;
+    text-align: center;
+    background: #bc761a;
+    color: white;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
